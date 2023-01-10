@@ -1,3 +1,5 @@
+Live website link - https://rishabh-14.github.io/password-generator/
+
 Quick start:
 
 ```
