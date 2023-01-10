@@ -1,52 +1,53 @@
 body {
-    margin: 0;
-   margin-left: 52px;
-    font-family: 'Karla';
-    background: #1F2937;
-    color: #FFFFFF;
+  margin: 0;
+  margin-left: 52px;
+  font-family: "Karla";
+  background: #1f2937;
+  color: #ffffff;
 }
-h1{
-    max-width: 250px;
-}
-
-.desc{
-    font-family: 'Inter';
-    font-weight: 400;
-    color: #D5D4D8;
-    font-size: 20px;
-}
-.span{
-    color: #4ADF86;
+h1 {
+  max-width: 250px;
 }
 
-.btn{
-    padding :9px 15px;
-    border-radius: 6px;
-    background: #10B981;
-    border: 1px solid black;
-    color: #FFFFFF;
+.desc {
+  font-family: "Inter";
+  font-weight: 400;
+  color: #d5d4d8;
+  font-size: 20px;
 }
-#btn{
-    margin-top: 31px;
+.span {
+  color: #4adf86;
+}
+
+.btn {
+  padding: 9px 15px;
+  border-radius: 6px;
+  background: #10b981;
+  border: 1px solid black;
+  color: #ffffff;
+  font-size: 22px;
+}
+#btn {
+  margin-top: 31px;
 }
 .passwords {
-    display: flex;
-    margin-top: 51px;
-    color: #FFFFFF;
+  display: flex;
+  margin-top: 51px;
+  color: #ffffff;
 }
 
 .password-1,
-.password-2{
-    width: 211px;
-    height: 39px;
-    background: #273549;
-    border-radius: 6px;
-    font-family: 'Inter';
-    font-weight: 500;
-    color: #55F991;
-    text-align: center;
+.password-2 {
+  width: 211px;
+  height: 39px;
+  background: #273549;
+  border-radius: 6px;
+  font-family: "Inter";
+  font-weight: 500;
+  color: #55f991;
+  text-align: center;
 }
 
-.password-2{
-    margin-left: 24px
+.password-2 {
+  margin-left: 24px;
 }
